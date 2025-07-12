@@ -1,7 +1,9 @@
-## RU Complaint System
+# RU Complaint System
 
 
 Welcome to the RU Complaint System, a modern and mobile-friendly platform designed to streamline the complaint management process for students and administrators at Redeemer’s University. This system empowers students to voice their concerns while providing admins with robust tools to manage and resolve complaints efficiently.
+
+[![License: MIT](https://img.shields.io/badge/License-MIT-green.svg)](LICENSE)
 
 
 ## Key Features
@@ -62,11 +64,33 @@ To set up the RU Complaint System, ensure you have the following installed:
 - Students can submit complaints via the form.
 - Admins can log in at `/admin` to view, resolve, delete, and export complaints.
 
+  
+
+ # 🛠️ Tech Stack
+
+- **Backend:** Flask, Flask-Mail, SQLite, ReportLab
+- **Frontend:** Bootstrap 5, Chart.js, HTML5, CSS3, JavaScript
+- **Other:** Responsive design, dark mode, secure file uploads
+
+---
+
+## 📈 Why This Project?
+
+- **For Students:**  
+  A simple, transparent way to report issues and track complaint status.
+
+- **For Admins:**  
+  A powerful, data-driven tool to manage, resolve, and analyze complaints—improving campus life.
+
+---
+
 ## Contributing
 - We welcome contributions! If you have suggestions for major changes, please open an issue to discuss your ideas before submitting a pull request.
 
-## License
-This project is licensed under the MIT License.
+## 📄 License
+
+This project is licensed under the [MIT License](LICENSE).
+
 
 
 Feel free to modify any sections or details to better fit your vision!
